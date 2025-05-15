@@ -1,0 +1,4 @@
+venv/
+car_images/
+car_brands.json
+car_models.json
