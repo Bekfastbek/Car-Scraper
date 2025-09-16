@@ -2,3 +2,4 @@ venv/
 car_images/
 car_brands.json
 car_models.json
+__pycache__/
